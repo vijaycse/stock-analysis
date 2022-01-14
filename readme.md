@@ -53,17 +53,16 @@ These disadvantages may range from having applications that are too large to not
 
  The benefit that refactoring this macro saved runtime from 0.1 constant run to  0.06 seconds. (1/4th)
 
-
+  ##2017 Original:
  
- 2017 Original :
+ ![2017 Original](https://github.com/vijaycse/stock-analysis/blob/master/resources/2017_original_run.png)
  
- https://github.com/vijaycse/stock-analysis/blob/master/resources/2017_original_run.png
+  ##2018 Original:
+   
+ ![2018 original](https://github.com/vijaycse/stock-analysis/blob/master/resources/2018_original_run.png)
  
- 2018 original:
+  ##Refactored code:
  
- https://github.com/vijaycse/stock-analysis/blob/master/resources/2018_original_run.png
+ ![Refactored Code](https://github.com/vijaycse/stock-analysis/blob/master/resources/refactored_run.png)
  
- Refactored Code:
- 
- https://github.com/vijaycse/stock-analysis/blob/master/resources/refactored_run.png
  
