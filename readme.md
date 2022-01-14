@@ -57,12 +57,13 @@ These disadvantages may range from having applications that are too large to not
  
  ![2017 Original](https://github.com/vijaycse/stock-analysis/blob/master/resources/2017_original_run.png)
  
-  ##2018 Original:
-   
- ![2018 original](https://github.com/vijaycse/stock-analysis/blob/master/resources/2018_original_run.png)
  
-  ##Refactored code:
+  ##Refactored code 2017:
  
- ![Refactored Code](https://github.com/vijaycse/stock-analysis/blob/master/resources/refactored_run.png)
+ ![Refactored Code](https://github.com/vijaycse/stock-analysis/blob/master/resources/VBA_Challenge_2017.png)
  
  
+
+  ##Refactored code 2018:
+ 
+ ![Refactored Code](https://github.com/vijaycse/stock-analysis/blob/master/resources/VBA_Challenge_2018.png)
