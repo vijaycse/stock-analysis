@@ -51,18 +51,13 @@ These disadvantages may range from having applications that are too large to not
 
 ### Result of Refactoring Stock Analysis:
 
- The benefit that refactoring this macro saved runtime from 0.1 constant run to  0.06 seconds. (1/4th)
+ The benefit that refactoring this macro saved runtime to 0.1 constant run from  0.6 seconds.
 
   ##2017 Original:
  
  ![2017 Original](https://github.com/vijaycse/stock-analysis/blob/master/resources/2017_original_run.png)
  
- 
-  ##Refactored code 2017:
- 
- ![Refactored Code](https://github.com/vijaycse/stock-analysis/blob/master/resources/VBA_Challenge_2017.png)
- 
- 
+
 
   ##Refactored code 2018:
  
