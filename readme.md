@@ -59,6 +59,8 @@ These disadvantages may range from having applications that are too large to not
  
 
 
-  ##Refactored code 2018:
+  ##Refactored code execution:
+
+  ![Refactored Code](https://github.com/vijaycse/stock-analysis/blob/master/resources/VBA_Challenge_2017.png)
  
  ![Refactored Code](https://github.com/vijaycse/stock-analysis/blob/master/resources/VBA_Challenge_2018.png)
